@@ -3,7 +3,7 @@ function App() {
   return (
     <><
       Chai
-    />
+    /> 
     <h1>hello react</h1>
     </>
   );
